@@ -1,6 +1,6 @@
 # CaymanMunda Specials
 
-Satirical fiction from the CaymanMunda universe by Bertrand L. Stern.
+Satirical fiction from the CaymanMunda universe by the Curator to the Rogues of Caymanmunda.
 Ebook and print editions are attached to each Release.
 
 - **CaymanMunda Back To School Madness 2026**  (release tag: `CaymanMunda-Back-To-School-Madness-2026`)
